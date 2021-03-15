@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleSignup</string>
+    <string-array name="names">
+        <item>ADD</item>
+        <item>SUBTRACT</item>
+        <item>MULTIPLY</item>
+        <item>DIVIDE</item>
+    </string-array>
+</resources>
